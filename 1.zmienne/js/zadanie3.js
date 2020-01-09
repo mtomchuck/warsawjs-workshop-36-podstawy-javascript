@@ -1,4 +1,7 @@
-let tellMeSth = "Kim ty ku@!@# jesteś?";
-let whoIAm = prompt(tellMeSth);
+// let tellMeSth = "Kim ty jesteś?";
+// let whoIAm = prompt(tellMeSth);
 
 //What is WhoIAm??
+
+// console.log(whoIAm);
+
