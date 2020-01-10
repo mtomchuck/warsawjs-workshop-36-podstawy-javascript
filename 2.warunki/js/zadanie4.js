@@ -8,9 +8,9 @@ const tellMeNumber3 = "I ostatnią, inną niż dwie poprzednie.";
 const number3 = prompt(tellMeNumber3);
 
 
-if (number1 > number2 && number3) {
+if (number1 > number2 && number1 > number3) {
     console.log(`Największą z liczb, które podałeś jest ${number1}`)
-} else if (number2 > number1 && number3) {
+} else if (number2 > number1 && number2 > number3) {
     console.log(`Największą z liczb, które podałeś jest ${number2}`)
 } else {
     console.log(`Największą z liczb, które podałeś jest ${number3}`)
